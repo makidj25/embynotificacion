@@ -33,7 +33,7 @@ Repository: {REPOSITORY}
 """
 
 CONTENT = {
-    "content": "Bienbenido",
+    "content": "Bienvenido",
     "author": AUTHOR,
     "version": VERSION,
     "update_time": UPDATETIME,
