@@ -33,7 +33,7 @@ Repository: {REPOSITORY}
 """
 
 CONTENT = {
-    "content": "Welcome to Emby Notifier!",
+    "content": "Bienbenido",
     "author": AUTHOR,
     "version": VERSION,
     "update_time": UPDATETIME,
